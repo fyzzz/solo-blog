@@ -11,7 +11,7 @@ fyzzz 的个人博客
 ### 最新
 
 * [我的linux脚本](http://www.fyzzz.cn/articles/2019/09/21/1569051081415.html)
-* [nginx安装配置](http://www.fyzzz.cn/articles/2019/09/17/1568682514403.html)
+* [CentOS下nginx离线安装配置](http://www.fyzzz.cn/articles/2019/09/17/1568682514403.html)
 * [SpringBoot通过systemctl自启动](http://www.fyzzz.cn/articles/2019/09/16/1568603807659.html)
 * [MySQL5.7安装和自启动](http://www.fyzzz.cn/articles/2019/09/10/1568107855050.html)
 * [mysql配置文件](http://www.fyzzz.cn/articles/2019/09/10/1568086828965.html)
